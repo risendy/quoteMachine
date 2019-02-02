@@ -1,0 +1,28 @@
+body {
+	padding-top: 50px;
+	padding-bottom: 120px;
+	background-color: black;
+	font-family: monospace;
+}
+.quote_box{
+	position: relative;
+	width: 550px;
+	height: 400px;
+	margin: 8% auto auto auto;
+	background-color: white;
+	padding:40px 50px;
+}
+.quote_text{
+	text-align: center;
+	font-size:2em;
+	font-weight: :500;
+}
+.quote_author{
+	text-align: right;
+	font-size:23px;
+}
+
+.buttons {
+	text-align: center;
+	margin-top:30px;
+}
